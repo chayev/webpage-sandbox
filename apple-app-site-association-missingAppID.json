@@ -8,7 +8,7 @@
     },
     "applinks":
     {
-        "apps":["Error"],
+        "apps":[],
         "details":[
             {
                 "paths":["/Tyf3/*"]
