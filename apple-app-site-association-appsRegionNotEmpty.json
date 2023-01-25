@@ -1,0 +1,23 @@
+{
+    "appclips":
+    {
+        "apps":[
+            "HFN2K4N6YW.io.suadeo.app.Clip",
+            "HFN2K4N6YW.io.suadeo.app.dev.Clip"
+            ]
+    },
+    "applinks":
+    {
+        "apps":["Error"],
+        "details":[
+            {
+                "paths":["/Tyf3/*"],
+                "appID":"HFN2K4N6YW.io.suadeo.app"
+            },
+            {
+                "paths":["/Tyf3/*","/AfPF/*"],
+                "appID":"HFN2K4N6YW.io.suadeo.app.dev"
+            }
+        ]
+    }
+}
